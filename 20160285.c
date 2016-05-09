@@ -1,5 +1,6 @@
 #include <stdio.h>
 int main(void)
+
 {
 	int k, n;
 	int f1, f2, f3;		//각 프레임 입력값
